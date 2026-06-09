@@ -52,6 +52,7 @@ Using this graph, the system generates new names by sampling probable character 
      ^ → s → a → n → d → y → $
      ```
    * Updates edge weights for repeated patterns
+<img width="950" height="967" alt="download" src="https://github.com/user-attachments/assets/61e455ac-2dc3-4370-b5fe-47c1e1c6959b" />
 
 3. **Name Generation**
 
